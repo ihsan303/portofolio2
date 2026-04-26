@@ -33,9 +33,3 @@ Website portfolio personal dengan desain modern, elegan, dan responsif. Dibuat u
 - **Contact** → Social media & kontak  
 
 ---
-
-## ⚙️ Cara Menjalankan
-
-1. Download / clone repository
-   ```bash
-   git clone https://github.com/username/portfolio.git
